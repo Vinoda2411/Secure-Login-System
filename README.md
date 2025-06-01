@@ -1,6 +1,6 @@
-🏦 Project Title: Secure Banking Application in Python
+**🏦 Project Title: Secure Banking Application in Python**
 
-🧾 Problem Statement:
+**🧾 Problem Statement:**
 
 In today’s digital world, users expect secure and simple banking systems that protect their personal data and enable basic transactions with ease. However, many beginner banking applications lack essential security features like password strength checks and two-factor authentication (2FA).
 
@@ -14,10 +14,10 @@ The goal of this project is to design and implement a secure, console-based bank
 This project addresses the problem of building a lightweight yet secure banking system for educational use, focusing on data validation, user authentication, and safe transaction handling without using databases or external storage.
 
 
-📌 Project Description:
+**📌 Project Description:**
 This project is a console-based Secure Banking Application built in Python. It simulates a simple banking system that emphasizes user authentication, data validation, and basic account operations.
 
-✅ Key Features:
+**✅ Key Features:**
 
 User Registration
 - Collects username, strong password, Aadhaar number (16-digit), and mobile number (10-digit).
@@ -51,7 +51,7 @@ users = {
     }
 }
 
-🧠 Learning Objectives:
+**🧠 Learning Objectives:**
 Practice working with:
 - Dictionaries and lists
 - Input validation and loops
@@ -59,15 +59,9 @@ Practice working with:
 - String handling and condition checks
 - Implement basic security principles (password strength & OTP)
 
-🚀 How to Run:
+**🚀 How to Run:**
 - Run the Python script.
 - Register as a new user.
 - Login using the registered credentials and mobile OTP.
 - Perform banking actions like deposit, withdraw, and view transaction history.
-"""
 
-file_path = "/mnt/data/secure_banking_project_description.txt"
-with open(file_path, "w", encoding="utf-8") as f:
-    f.write(project_description)
-
-file_path
